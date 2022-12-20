@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+title: "Home"
 ---
 
 I am a graduate in Computer Science from the IT University in Copenhagen with a specialization in Advanced Data Systems and recently I completed a research project under

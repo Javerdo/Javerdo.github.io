@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![Profile picture](jannik.png){: width: 20% height: 20% margin: 0 auto display: block }
+![Profile picture](jannik.png){: width="250" }
 
 {% imagesize jannik.png:img?width=250 %}
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "All projects"
 ---
 
 ## Wildlife incursion research project

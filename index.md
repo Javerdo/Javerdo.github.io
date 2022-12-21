@@ -3,7 +3,10 @@ layout: default
 title: "Home"
 ---
 
-<div style="text-align:center"><img src="jannik.png" width=50% height=50% /></div>
+<p align="center">
+  <img src="jannik.png" width=20% height=20% />
+</p>
+
 
 I am a graduate in Computer Science from the IT University in Copenhagen with a specialization in Advanced Data Systems and recently I completed a research project under
 the supervision of Paul Rosero where we investigated and designed an IoT prototype to detect wildlife incursions at farmlands in Denmark. 

@@ -7,4 +7,4 @@ title: "All projects"
 bla bla
 
 ## The code
-Is dangerous
+This code is dangerous

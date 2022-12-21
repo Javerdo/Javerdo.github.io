@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "All projects"
 ---
 
 ## Wildlife incursion research project
